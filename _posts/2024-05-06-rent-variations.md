@@ -1,11 +1,11 @@
 ---
-title:  "Advanced examples"
+title:  "Rent variations in the Bay Area"
 mathjax: true
 layout: post
 categories: media
 ---
 
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
+![Oakland housing](https://www.huduser.gov/portal/sites/default/files/images/Edge-Featured_Image_Interior-110119.jpg)
 
 
 ## MathJax

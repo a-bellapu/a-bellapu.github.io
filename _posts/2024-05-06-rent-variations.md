@@ -1,5 +1,5 @@
 ---
-title:  "Rent variations in the Bay Area"
+title:  "Rental variations in the Bay Area"
 mathjax: true
 layout: post
 categories: media

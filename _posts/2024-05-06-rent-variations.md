@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-![Oakland housing](https://www.huduser.gov/portal/sites/default/files/images/Edge-Featured_Image_Interior-110119.jpg)
+![Oakland housing](https://www.essexapartmenthomes.com/-/media/Project/EssexPropertyTrust/Sites/EssexApartmentHomes/Blog/2020/2020-03-13-Oakland-Cultural-Hub-of-the-East-Bay/Oakland-Cultural-Hub-of-the-East-Bay-2-Downtown-Oakland.jpg)
 
 
 ## MathJax

@@ -1,4 +1,4 @@
-title: "Housing in California"
+title: "Anusha Bellapu"
 author: "Anusha Bellapu"
 description: "CYPLAN 255 | Final assignment"
 permalink: /:title/
@@ -10,18 +10,18 @@ date_format: "%B %d, %Y"
 
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
-show_sidebar: true        # show a sidebar instead of the usual header
+show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: Home Change,icon: home}
-  - {file: "README.md", title: About me, icon: address-card}
+  - {file: "index.html", title: Home}
+  - {file: "README.md", title: About me}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:anushabellapu08@gmail.com"}
-  - {title: Github, icon: github, url: "https://a-bellapu.github.io"}
+# - {title: Github, icon: github, url: "https://a-bellapu.github.io"}
 # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:

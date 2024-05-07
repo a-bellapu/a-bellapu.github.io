@@ -19,6 +19,7 @@ In this context, I attempt to understand the rental dynamics in the region. I un
 
 US Census Data API and Zillow Rental data
 
+
 ## Key Findings
 
 
@@ -37,12 +38,14 @@ To delve deeper into housing affordability in the region, I analyze the rent bur
 
 ### Vacancy
 
+
 ## Conclusion
+
 
 ## Sources
 [https://www.sfchronicle.com/bayarea/article/rent-prices-increase-pandemic-17884597.php](https://www.sfchronicle.com/bayarea/article/rent-prices-increase-pandemic-17884597.php)
 
-[(https://ternercenter.berkeley.edu/wp-content/uploads/pdfs/Disparity_in_Departure.pdf)](https://ternercenter.berkeley.edu/wp-content/uploads/pdfs/Disparity_in_Departure.pdf)
+[https://ternercenter.berkeley.edu/wp-content/uploads/pdfs/Disparity_in_Departure.pdf](https://ternercenter.berkeley.edu/wp-content/uploads/pdfs/Disparity_in_Departure.pdf)
 
-[(https://ternercenter.berkeley.edu/wp-content/uploads/pdfs/Disparity_in_Departure.pdf)](https://www.sfchronicle.com/sf/article/s-f-exodus-population-recovery-data-18564064.php)
+[https://www.sfchronicle.com/sf/article/s-f-exodus-population-recovery-data-18564064.php](https://www.sfchronicle.com/sf/article/s-f-exodus-population-recovery-data-18564064.php)
 

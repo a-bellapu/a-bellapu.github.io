@@ -38,6 +38,8 @@ Zooming in on the data at a zip code level unveils that this trend is predominan
 
 ![map](/map.html)
 
+<a href="/map.html">Map</a>
+
 
 ![Rents 2024](https://drive.google.com/file/d/1CuUB0NAt0F6l01XGF6IJDDk8YY-bJor0/view?usp=drive_link)
 

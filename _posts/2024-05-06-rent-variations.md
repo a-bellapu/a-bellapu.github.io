@@ -33,7 +33,7 @@ Zooming in on the data at a zip code level unveils that this trend is predominan
 ![1_SF_Bay avg](https://github.com/a-bellapu/a-bellapu.github.io/blob/master/assets/1_SF_Bay%20avg.png)
 
 
-![Rents 2024](https://github.com/a-bellapu/a-bellapu.github.io/blob/master/assets/1_SF_Bay%20avg.png)
+![Rents 2024](https://github.com/a-bellapu/a-bellapu.github.io/blob/master/assets/chloropleth_2024.png)
 
 ![pct change](https://github.com/a-bellapu/a-bellapu.github.io/blob/master/assets/3_pct%20change.png)
 

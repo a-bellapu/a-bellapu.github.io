@@ -32,16 +32,7 @@ Zooming in on the data at a zip code level unveils that this trend is predominan
 
 ![1_SF_Bay avg](/assets/1_SF_Bay avg.png)
 
-![map please work](https://github.com/a-bellapu/a-bellapu.github.io/blob/master/assets/map.html)
-![map please work](https://github.com/a-bellapu/a-bellapu.github.io/master/assets/map.html)
 
-![map](file:///Users/anushabellapu/Desktop/CYPLAN255_Working/map.html)
-
-![map](/assets/map.html)
-
-![map](/map.html)
-
-<a href="/map.html">Map</a>
 
 
 ![Rents 2024](https://drive.google.com/file/d/1CuUB0NAt0F6l01XGF6IJDDk8YY-bJor0/view?usp=drive_link)
@@ -56,56 +47,17 @@ To delve deeper into housing affordability in the region, I analyze the rent bur
 
 ![rent burden](https://github.com/a-bellapu/a-bellapu.github.io/blob/master/assets/Screenshot%202024-05-11%20at%2001.54.50.jpg)
 
+<a href="/map.html">Map</a>
+
 {% include embed.html url="https://a-bellapu.github.io/map.html" %}
 
-{% include embed.html url="https://a-bellapu.github.io/map.html" style="height: 1200px;" %}
-
-<div class="large">
-    <!-- Your image or iframe goes here -->
-    <iframe src="https://a-bellapu.github.io/map.html" frameborder="0" allowfullscreen></iframe>
-</div>
-.large {
-    width: 200%; /* Set the wrapper div width to 100% */
-}
-
-.large img,
-.large iframe {
-    width: 200%; /* Set the width of the image or iframe inside the wrapper div to 100% */
-}
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Embedded Map</title>
-<style>
-.large {
-    max-width: 100%; /* Set the maximum width of the wrapper div to 100% */
-    margin: 0 auto; /* Center the wrapper div horizontally (optional) */
-}
-
-.large iframe {
-    width: 100%; /* Set the width of the iframe inside the wrapper div to 100% */
-}
-</style>
-</head>
-<body>
-
-<div class="large">
-    <!-- Your iframe goes here -->
-    <iframe src="https://a-bellapu.github.io/map.html" frameborder="0" allowfullscreen></iframe>
-</div>
-
-</body>
-</html>
+{% include embed.html url="https://a-bellapu.github.io/map.html" style="height: 1800px;" %}
 
 
 ### Residential mobility
 
 ### Vacancy
-![correlation](https://cdn1.byjus.com/wp-content/uploads/2021/03/Correlation.png)
+
 
 
 ## Conclusion

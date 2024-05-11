@@ -32,6 +32,7 @@ Zooming in on the data at a zip code level unveils that this trend is predominan
 
 ![1_SF_Bay avg](/assets/1_SF_Bay avg.png)
 ![map](/assets/map.html)
+<iframe src="map.html" height="500" width="500"></iframe>
 
 
 

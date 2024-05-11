@@ -65,13 +65,9 @@ Conducting a correlation test reveals the relationship between median household 
 In contrast, Alameda County demonstrates a significant correlation between income levels and rent variations. Higher-income neighborhoods have witnessed rent increases post-pandemic. However, it's crucial to consider that several zip codes within the Average Area Median Income (AMI) limit of $147,900 have experienced rising rent prices. This raises questions about whether these neighborhoods are prepared to withstand the repercussions of escalating prices.
 
 ![correlation_both](/assets/correlation_both.png)
-County: Alameda County
-Correlation coefficient: 0.33
-P-value: 0.026
 
-County: San Francisco County
-Correlation coefficient: 0.25
-P-value: 0.23
+Alameda County | Correlation coefficient: 0.33 | P-value: 0.026
+San Francisco County | Correlation coefficient: 0.25 | P-value: 0.23
 
 
 ## Conclusion

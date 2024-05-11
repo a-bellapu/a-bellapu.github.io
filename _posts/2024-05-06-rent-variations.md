@@ -57,6 +57,9 @@ To delve deeper into housing affordability in the region, I analyze the rent bur
 ![rent burden](https://github.com/a-bellapu/a-bellapu.github.io/blob/master/assets/Screenshot%202024-05-11%20at%2001.54.50.jpg)
 
 {% include embed.html url="https://a-bellapu.github.io/map.html" %}
+
+{% include embed.html url="https://a-bellapu.github.io/map.html" style="height: 1200px;" %}
+
 <div class="large">
     <!-- Your image or iframe goes here -->
     <iframe src="https://a-bellapu.github.io/map.html" frameborder="0" allowfullscreen></iframe>

@@ -4,12 +4,25 @@
 
 
 <div class="embed-container">
-    <iframe src="{{ include.url }}" frameborder="0" allowfullscreen class="map-iframe"></iframe>
+    <div class="iframe-wrapper">
+        <iframe src="{{ include.url }}" frameborder="0" allowfullscreen class="map-iframe"></iframe>
+    </div>
 </div>
 
 <style>
+.embed-container {
+    display: flex;
+    justify-content: center; /* Center the iframe horizontally */
+}
+
+.iframe-wrapper {
+    height: 500px; /* Adjust the height as needed */
+    width: 1000px; /* Adjust the width as needed */
+}
+
 .map-iframe {
-    height: 600px;/* Adjust the height as needed */
-    width: 1000px
+    width: 100%; /* Set the iframe width to fill its container */
+    height: 100%; /* Set the iframe height to fill its container */
 }
 </style>
+

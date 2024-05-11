@@ -31,8 +31,8 @@ From 2015 to 2023, there was notable variation in rents across different countie
 Zooming in on the data at a zip code level unveils that this trend is predominantly concentrated within the San Francisco - Oakland Metropolitan Area. A visual representation through mapping illustrates the extent of change in median rent across different zip codes over time. This granularity highlights the persistence of the phenomenon, showcasing how certain areas within the metropolitan region have experienced significant shifts in rental prices compared to others.
 
 ![1_SF_Bay avg](/assets/1_SF_Bay avg.png)
-![map](/assets/map.html)
-<iframe src="map.html" height="500" width="500"></iframe>
+![map](file:///Users/anushabellapu/Desktop/CYPLAN255_Working/map.html)
+
 
 
 

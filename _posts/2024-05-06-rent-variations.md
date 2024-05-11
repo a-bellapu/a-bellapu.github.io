@@ -51,7 +51,7 @@ To delve deeper into housing affordability in the region, I analyze the rent bur
 
 {% include embed.html url="https://a-bellapu.github.io/map.html" %}
 
-{% include embed.html url="https://a-bellapu.github.io/map.html" style="height: 1800px;" %}
+{% include embed.html url="https://a-bellapu.github.io/map.html" style="height: 600px;" %}
 
 
 ### Residential mobility

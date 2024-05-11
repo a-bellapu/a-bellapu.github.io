@@ -31,6 +31,7 @@ From 2015 to 2023, there was notable variation in rents across different countie
 Zooming in on the data at a zip code level unveils that this trend is predominantly concentrated within the San Francisco - Oakland Metropolitan Area. A visual representation through mapping illustrates the extent of change in median rent across different zip codes over time. This granularity highlights the persistence of the phenomenon, showcasing how certain areas within the metropolitan region have experienced significant shifts in rental prices compared to others.
 
 ![1_SF_Bay avg](/assets/1_SF_Bay avg.png)
+![map](/assets/map.html)
 
 
 
@@ -45,6 +46,8 @@ Zooming in on the data at a zip code level unveils that this trend is predominan
 To delve deeper into housing affordability in the region, I analyze the rent burden, wherein households spend more than 30% of their income on rent, across various counties over different years. While each county demonstrates a reduction in rent burden over time, San Francisco stands out with a notably steeper decline in this trend. To further explore this phenomenon, it's crucial to examine employment trends, residential mobility patterns, and changes in land use within the area. By comparing data at both the zip code and county levels, we can gain a more nuanced understanding of the factors contributing to San Francisco's unique trajectory in rent burden reduction. This analysis will shed light on the complex interplay between economic factors, demographic shifts, and urban development policies shaping housing affordability in the Bay Area.
 
 ![rent burden](https://github.com/a-bellapu/a-bellapu.github.io/blob/master/assets/Screenshot%202024-05-11%20at%2001.54.50.jpg)
+
+{% include embed.html url="https://map.html" %}
 
 ### Residential mobility
 

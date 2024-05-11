@@ -48,7 +48,7 @@ To delve deeper into housing affordability in the region, I analyze the rent bur
 ### Residential mobility
 
 ### Vacancy
-![correlation]
+![correlation](https://cdn1.byjus.com/wp-content/uploads/2021/03/Correlation.png)
 
 
 ## Conclusion

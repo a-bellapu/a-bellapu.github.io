@@ -64,6 +64,11 @@ Conducting a correlation test reveals the relationship between median household 
 
 In contrast, Alameda County demonstrates a significant correlation between income levels and rent variations. Higher-income neighborhoods have witnessed rent increases post-pandemic. However, it's crucial to consider that several zip codes within the Average Area Median Income (AMI) limit of $147,900 have experienced rising rent prices. This raises questions about whether these neighborhoods are prepared to withstand the repercussions of escalating prices.
 
+![correlation_alameda](/assets/correlation_alameda.png)
+
+![correlation_sanfrancisco](/assets/correlation_sanfrancisco.png)
+
+
 ## Conclusion
 In conclusion, this analysis has shed light on the intricate dynamics shaping the Bay Area's housing landscape in the aftermath of the COVID-19 pandemic. While we've uncovered significant insights regarding rental trends, housing affordability, and their correlation with income levels, several questions remain ripe for further exploration.
 

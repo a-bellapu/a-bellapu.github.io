@@ -71,6 +71,34 @@ To delve deeper into housing affordability in the region, I analyze the rent bur
 }
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Embedded Map</title>
+<style>
+.large {
+    max-width: 100%; /* Set the maximum width of the wrapper div to 100% */
+    margin: 0 auto; /* Center the wrapper div horizontally (optional) */
+}
+
+.large iframe {
+    width: 100%; /* Set the width of the iframe inside the wrapper div to 100% */
+}
+</style>
+</head>
+<body>
+
+<div class="large">
+    <!-- Your iframe goes here -->
+    <iframe src="https://a-bellapu.github.io/map.html" frameborder="0" allowfullscreen></iframe>
+</div>
+
+</body>
+</html>
+
+
 ### Residential mobility
 
 ### Vacancy

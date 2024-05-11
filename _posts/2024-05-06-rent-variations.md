@@ -12,7 +12,7 @@ categories: media
 
 The housing landscape of Bay Area has been profoundly impacted by the COVID-19 pandemic, leading to a reevaluation of rental dynamics and migration patterns. With remote work becoming the new norm for many industries, residents have begun to prioritize factors such as affordability, space, and quality of life over proximity to urban centers. Additionally, the area has experienced notable out-migration trends in the wake of the pandemic. The allure of the region, once synonymous with lucrative tech jobs and cultural vibrancy, has been tempered by concerns over affordability and quality of life. Residents, particularly those in the tech sector, have increasingly sought alternatives outside of the Bay Area, driven by factors such as remote work opportunities, housing affordability, and lifestyle preferences.
 
-In this context, I attempt to understand the rental dynamics in the region. I unpack, **“what are some possible factors influencing rental variations in the Bay Area?”** 
+In this context, I aim to understand the relation between rental change and housing affordability in the region.
 
 
 ## Data and Methodology

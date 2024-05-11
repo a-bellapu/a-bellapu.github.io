@@ -29,11 +29,21 @@ US Census Data API and Zillow Rental data
 From 2015 to 2023, there was notable variation in rents across different counties in the Bay Area. However, the onset of the pandemic brought about a sharp decline in rents specifically within San Francisco. Since then, rents in San Francisco have remained relatively low compared to other counties in the region, which have shown an upward trend. This divergence suggests a shift in rental market dynamics, with San Francisco experiencing a prolonged period of subdued rental prices while neighboring counties see a resurgence in rental demand and prices.
 
 Zooming in on the data at a zip code level unveils that this trend is predominantly concentrated within the San Francisco - Oakland Metropolitan Area. A visual representation through mapping illustrates the extent of change in median rent across different zip codes over time. This granularity highlights the persistence of the phenomenon, showcasing how certain areas within the metropolitan region have experienced significant shifts in rental prices compared to others.
+
 ![SF_Bay_Avg](https://github.com/a-bellapu/a-bellapu.github.io/blob/master/assets/1_SF_Bay%20avg.png)
+
+
+![Rents 2024](https://github.com/a-bellapu/a-bellapu.github.io/blob/master/assets/1_SF_Bay%20avg.png)
+
+![pct change](https://github.com/a-bellapu/a-bellapu.github.io/blob/master/assets/3_pct%20change.png)
+
+
 
 ### Housing affordability
 
 To delve deeper into housing affordability in the region, I analyze the rent burden, wherein households spend more than 30% of their income on rent, across various counties over different years. While each county demonstrates a reduction in rent burden over time, San Francisco stands out with a notably steeper decline in this trend. To further explore this phenomenon, it's crucial to examine employment trends, residential mobility patterns, and changes in land use within the area. By comparing data at both the zip code and county levels, we can gain a more nuanced understanding of the factors contributing to San Francisco's unique trajectory in rent burden reduction. This analysis will shed light on the complex interplay between economic factors, demographic shifts, and urban development policies shaping housing affordability in the Bay Area.
+
+![rent burden](https://github.com/a-bellapu/a-bellapu.github.io/blob/master/assets/2_County%20pct%20rent.png)
 
 ### Residential mobility
 

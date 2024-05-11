@@ -41,7 +41,7 @@ Between 2015 and 2024, rents in the Bay Area experienced significant variation a
 
 The onset of the pandemic brought about a sharp decline in rents specifically within San Francisco. Since then, rents in San Francisco have remained relatively low compared to other counties in the region, which have shown an upward trend. This divergence suggests a shift in rental market dynamics, with San Francisco experiencing a prolonged period of subdued rental prices while neighboring counties see a resurgence in rental demand and prices.
 
-![3_pct_change](/assets/3_pct_change.png)
+![3_pct_change](/assets/3_pct change.png)
 
 
 ![1_SF_Bay avg](/assets/1_SF_Bay avg.png)

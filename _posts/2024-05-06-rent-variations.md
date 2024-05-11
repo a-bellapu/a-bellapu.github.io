@@ -32,6 +32,9 @@ Zooming in on the data at a zip code level unveils that this trend is predominan
 
 ![1_SF_Bay avg](/assets/1_SF_Bay avg.png)
 
+![map please work](https://github.com/a-bellapu/a-bellapu.github.io/blob/master/assets/map.html)
+![map please work](https://github.com/a-bellapu/a-bellapu.github.io/master/assets/map.html)
+
 ![map](file:///Users/anushabellapu/Desktop/CYPLAN255_Working/map.html)
 
 ![map](/assets/map.html)
